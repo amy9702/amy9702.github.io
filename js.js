@@ -1,3 +1,3 @@
 $(document).ready(function(){
-   $("#download").attr("href","www.baidu.com");
+   $("#download").attr("href","http://www.baidu.com");
 });
